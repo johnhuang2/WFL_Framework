@@ -1,6 +1,6 @@
 # Vehicular Platooning with Wireless Federated Learning
 
-Implementation of the paper "Enhancing Vehicular Platooning with Wireless Federated Learning: A Resource-Aware Control Framework" published in IEEE/ACM Transactions on Networking.
+Implementation of the paper "Enhancing Vehicular Platooning with Wireless Federated Learning: A Resource-Aware Control Framework"
 
 ## Requirements
 
